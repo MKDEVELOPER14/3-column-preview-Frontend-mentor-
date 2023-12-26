@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: (https://mkdeveloper14.github.io/3-column-preview-Frontend-mentor-/)
+- Live Site URL: (https://mkdeveloper14.github.io/3-column-preview-Frontend-mentor-/)
 
 ## My process
 
